@@ -1,0 +1,15 @@
+D:\Лабы\Курсовая\Coursework\bin\Debug\net8.0\Coursework.exe
+D:\Лабы\Курсовая\Coursework\bin\Debug\net8.0\Coursework.deps.json
+D:\Лабы\Курсовая\Coursework\bin\Debug\net8.0\Coursework.runtimeconfig.json
+D:\Лабы\Курсовая\Coursework\bin\Debug\net8.0\Coursework.dll
+D:\Лабы\Курсовая\Coursework\bin\Debug\net8.0\Coursework.pdb
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.AssemblyInfoInputs.cache
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.AssemblyInfo.cs
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.csproj.CoreCompileInputs.cache
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.sourcelink.json
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.dll
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\refint\Coursework.dll
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.pdb
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\Coursework.genruntimeconfig.cache
+D:\Лабы\Курсовая\Coursework\obj\Debug\net8.0\ref\Coursework.dll

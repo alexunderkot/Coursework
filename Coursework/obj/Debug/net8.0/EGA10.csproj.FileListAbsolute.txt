@@ -1,0 +1,14 @@
+D:\Лабы\EGA10\EGA10\bin\Debug\net8.0\EGA10.exe
+D:\Лабы\EGA10\EGA10\bin\Debug\net8.0\EGA10.deps.json
+D:\Лабы\EGA10\EGA10\bin\Debug\net8.0\EGA10.runtimeconfig.json
+D:\Лабы\EGA10\EGA10\bin\Debug\net8.0\EGA10.dll
+D:\Лабы\EGA10\EGA10\bin\Debug\net8.0\EGA10.pdb
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.AssemblyInfoInputs.cache
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.AssemblyInfo.cs
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.csproj.CoreCompileInputs.cache
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.dll
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\refint\EGA10.dll
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.pdb
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\EGA10.genruntimeconfig.cache
+D:\Лабы\EGA10\EGA10\obj\Debug\net8.0\ref\EGA10.dll
